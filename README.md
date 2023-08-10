@@ -1,1 +1,1 @@
-# tictactoe game using python
+# basic tictactoe game using python
